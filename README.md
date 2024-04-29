@@ -3,7 +3,7 @@
 ## What Does It Do?
 The Path of Exile overlay is a desktop web application interfacing with the games development API to improve player experience by providing multiple quality of life tools. Written as an electron application, the tool allows for a quick and easy access to various tools without interrupting the gaming experience.
 
-##Current Features
+## Current Features
 PoE is an expansive game with a lot of complicated mechanics and interactions, here are the following features that the PoE Overlay provides:
 
 ## Future Development
